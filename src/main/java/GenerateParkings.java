@@ -29,7 +29,7 @@ public class GenerateParkings {
 //          ));
 
         System.out.println(format(
-          "addParking(%s, %d, %s, %s, %f, %f);",
+          "addParking(%s, \"%d\", \"%s\", \"%s\", \"%f\", \"%f\");",
           map,
           id,
           parking,
